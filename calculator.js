@@ -4,7 +4,7 @@ var operatorBtns = document.getElementsByClassName('btn_operator');
 var btnDecimal = document.querySelector('.calc_decimal');
 var btnClear = document.getElementById('calc_Clear');
 var display = document.getElementById('display');
-
+//can
 var displayVal = '0';
 var pendingVal;
 var evalStringArry = [];
