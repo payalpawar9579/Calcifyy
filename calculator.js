@@ -20,7 +20,7 @@ var updateDisplayVal = (clickObj) => {
   display.innerText = displayVal;
 };
 
-// Perform the calculation operation when an operator button is clicked
+// Perform the calculation operation operator is clicked
 var performOperation = (clickObj) => {
   var operator = clickObj.target.innerText;
 
