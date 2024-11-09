@@ -1,3 +1,4 @@
+//new 
 var numBtns = document.getElementsByClassName('btn_num');
 var operatorBtns = document.getElementsByClassName('btn_operator');
 var btnDecimal = document.querySelector('.calc_decimal');
